@@ -20,7 +20,7 @@ I love mobile development and everything about it, that is why I spend part of m
 
 - Others -> Jetpack Compose (Learning)
 
-### 🗣️Soft Skills
+### 🗣️ Soft Skills
 
 - I am quite self-taught, if something interests me, I look for a way to learn it and apply it to my projects.
 - Proactive, continuously learning and improving.
