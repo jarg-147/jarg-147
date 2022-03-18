@@ -6,6 +6,7 @@ I love mobile development and everything about it, that is why I spend part of m
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-romero-gil/)
+[![play store dev profile](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Play_Arrow_logo.svg/719px-Google_Play_Arrow_logo.svg.png)](https://play.google.com/store/apps/dev?id=5750565710425983947)
 
 ## 🛠 Skills
 
