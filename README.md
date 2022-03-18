@@ -1,8 +1,13 @@
 ## 👋 Hi! I'm Javier, Android native application developer.
 
-### 😎 About me
+### 🚀 About Me
 
 I love mobile development and everything about it, that is why I spend part of my free time creating my own applications and learning new things.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-romero-gil/)
+
+## 🛠 Skills
 
 ### 🧠 Hard Skills
 
