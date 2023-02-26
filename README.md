@@ -10,7 +10,7 @@ Currently learning Compose! 💻.
 
 Do you wanna know more about me? Check my [website](https://jarg-147.github.io/)
 
-##  GitHub Projects
+## 💻 GitHub Projects
 
 - [♋️ Horoscopum (Compose)](https://github.com/jarg-147/HoroscopumCompose) - Android App built in Compose
 - [♑️ Horoscopum (XML)](https://github.com/jarg-147/HoroscopumXML) - Android App built in XML
