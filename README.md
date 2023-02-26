@@ -1,44 +1,53 @@
-## 👋 Hi! I'm Javier, Android native application developer.
+<div align="right">
 
-### 🚀 About Me
+</div>
 
-I love mobile development and everything about it, that is why I spend part of my free time creating my own applications and learning new things.
+# 👋 Hi there, I'm Javier
+  
+I'm a self taught Mobile Developer, Android Developer at **@Klikin**.
+  
+Currently learning Compose! 💻.
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-romero-gil/)
+Do you wanna know more about me? Check my [website](https://jarg-147.github.io/)
 
-[![play store dev profile](https://www.gstatic.com/android/market_images/web/play_prism_hlock_1x.png)](https://play.google.com/store/apps/dev?id=5750565710425983947)
+##  GitHub Projects
 
-## 🛠 Skills
+- [♋️ Horoscopum (Compose)](https://github.com/jarg-147/HoroscopumCompose) - Android App built in Compose
+- [♑️ Horoscopum (XML)](https://github.com/jarg-147/HoroscopumXML) - Android App built in XML
 
-### 🧠 Hard Skills
+You can aslo check my [other repos](https://github.com/jarg-147?tab=repositories) for more projects.
 
-- Architectures -> MVVM Architecture and Clean Architecture, applying SOLID principles.
+<div align="center">
 
-- Languages ​​-> Kotlin 100%
+## 🔗 Published Apps
 
-- Libraries -> Firebase, Retrofit, OkHttp, Room, Glide among others.
+[![Horoscopum](https://play-lh.googleusercontent.com/lzbFllsGM4AQPTIc_5pf2S0gjiEKxwVOT8GRD-ycwKPTaefCJfuqPgln4hUvOiOfbA=w50-h50-rw)](https://play.google.com/store/apps/details?id=com.bitbiird.horoscopum)
+[![WeeDog](https://play-lh.googleusercontent.com/X9UptzvOsK9j5A7EgXRvzZDrMvN_ZZIbpACJeJ9SF2l_X7Vf9wJAdpWjU1lkO4p1xdVv=w50-h50-rw)](https://play.google.com/store/apps/details?id=com.bitbiird.weedog)
 
-- Dependency Injection (DI) -> Dagger Hilt and Koin.
+</div>
 
-- Testing: Mockk (Learning)
+<div align="center">
 
-- Agile Methodologies -> Kanban with Trello, JIRA and ClickUp
+## ⚡️ Skills
 
-- Others -> Jetpack Compose (Learning)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,ktor,gradle,firebase,git,github,heroku,postman)](https://skillicons.dev)
 
-### 🗣️ Soft Skills
+</div>
 
-- I am quite self-taught, if something interests me, I look for a way to learn it and apply it to my projects.
-- Proactive, continuously learning and improving.
-- Capacity for teamwork.
+<div align="center">
 
-### 🔨 Tools
+## 🗣️ Wanna talk?
 
-- IDEs -> Android Studio, IntelliJ IDEA.
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/javier-romero-gil/)
 
-- VCS -> Git, Git flow, GitHub, Bitbucket.
+</div>
 
-- APIs/WS -> Postman, Swagger.
+<div align="center">
 
-- UIs -> Zeplin, Canva.
+## 📈 My GitHub Stats
+
+[![](https://komarev.com/ghpvc/?username=jarg-147&style=for-the-badge&color=2EDF85)](https://github.com/antonkomarev/github-profile-views-counter)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jarg-147&theme=material-palenight&border_radius=8&mode=weekly)](https://git.io/streak-stats)
+
+</div>
