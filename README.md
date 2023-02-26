@@ -1,6 +1,4 @@
-<div align="right">
-
-</div>
+<div align="center">
 
 # 👋 Hi there, I'm Javier
   
@@ -10,13 +8,20 @@ Currently learning Compose! 💻.
 
 Do you wanna know more about me? Check my [website](https://jarg-147.github.io/)
 
-## 💻 GitHub Projects
+</div>
+  
+<div align="center">
 
-- [♋️ Horoscopum (Compose)](https://github.com/jarg-147/HoroscopumCompose) - Android App built in Compose
-- [♑️ Horoscopum (XML)](https://github.com/jarg-147/HoroscopumXML) - Android App built in XML
+## 💻 GitHub Projects
+  
+[♋️ Horoscopum (Android / Compose)](https://github.com/jarg-147/HoroscopumCompose)
+  
+[♑️ Horoscopum (Android / XML)](https://github.com/jarg-147/HoroscopumXML)
 
 You can aslo check my [other repos](https://github.com/jarg-147?tab=repositories) for more projects.
 
+</div>
+  
 <div align="center">
 
 ## 🔗 Published Apps
