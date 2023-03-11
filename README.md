@@ -43,6 +43,7 @@ You can aslo check my [other repos](https://github.com/jarg-147?tab=repositories
 
 ## 🗣️ Wanna talk?
 
+[![Mail](https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w46-h46-rw)](mailto:contact@jarg147.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/javier-romero-gil/)
 
 </div>
