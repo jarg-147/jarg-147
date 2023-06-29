@@ -35,7 +35,7 @@ You can aslo check my [other repos](https://github.com/jarg-147?tab=repositories
 
 ## ⚡️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,ktor,gradle,firebase,git,github,heroku,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,ktor,gradle,firebase,swift,git,github,postman)](https://skillicons.dev)
 
 </div>
 
