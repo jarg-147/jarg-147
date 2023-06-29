@@ -4,7 +4,7 @@
   
 I'm a self taught Mobile Developer, Android Developer at **@Klikin**.
   
-Currently learning Compose! 💻.
+Currently learning Compose and SwiftUI! 💻.
 
 Do you wanna know more about me? Check my [website](https://jarg-147.github.io/)
 
@@ -26,7 +26,6 @@ You can aslo check my [other repos](https://github.com/jarg-147?tab=repositories
 
 ## 🔗 Published Apps
 
-[![Horoscopum](https://play-lh.googleusercontent.com/lzbFllsGM4AQPTIc_5pf2S0gjiEKxwVOT8GRD-ycwKPTaefCJfuqPgln4hUvOiOfbA=w50-h50-rw)](https://play.google.com/store/apps/details?id=com.bitbiird.horoscopum)
 [![WeeDog](https://play-lh.googleusercontent.com/X9UptzvOsK9j5A7EgXRvzZDrMvN_ZZIbpACJeJ9SF2l_X7Vf9wJAdpWjU1lkO4p1xdVv=w50-h50-rw)](https://play.google.com/store/apps/details?id=com.bitbiird.weedog)
 
 </div>
