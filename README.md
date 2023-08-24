@@ -48,10 +48,7 @@ Feel free to explore further details about me and my projects on my [website](ht
 <img src="https://github.com/jarg-147/jarg-147/assets/101630863/4ce240fe-b495-46c7-8adb-8a59f5ba4d16" width="400" alt="WeeDog Android Cover">
 <p>
 <a href="https://apps.apple.com/es/app/weedog-playas-para-perros/id6451301481" target="_blank">
-<img src="https://github.com/jarg-147/jarg-147/assets/101630863/29b32577-e8d9-452f-8227-2e32c4dbf4ee" height="50" alt="WeeDog iOS Cover">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="https://github.com/jarg-147/jarg-147/assets/101630863/29b32577-e8d9-452f-8227-2e32c4dbf4ee" height="50" alt="WeeDog Android Cover">
 </a>
 </p>
 </div>
