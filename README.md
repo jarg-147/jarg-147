@@ -66,7 +66,7 @@ Feel free to explore further details about me and my projects on my [website](ht
     </tr>
 </table>
 
-## Other projects 💻
+## Other projects 👀
 
 [♋️ Horoscopum (Android / Compose)](https://github.com/jarg-147/HoroscopumCompose)
 
