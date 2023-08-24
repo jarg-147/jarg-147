@@ -8,8 +8,7 @@
 
 ## About me 🙂
 
-I am a self-taught Mobile Developer from 🇪🇸, currently working as an Android Developer at [**@Klikin
-**](https://www.klikin.com/).
+I am a self-taught Mobile Developer from 🇪🇸, currently working as an Android Developer at [@Klikin](https://www.klikin.com/).
 
 I usually dedicate my free time to improve my knowledge of Kotlin and Swift.
 
