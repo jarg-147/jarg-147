@@ -74,15 +74,15 @@ Feel free to explore further details about me and my projects on my [website](ht
 
 You can aslo check my [other repos](https://github.com/jarg-147?tab=repositories) for more projects.
 
-## ⚡️ Skills / Stack
+## Skills / Stack ⚡️
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,idea,ktor,gradle,firebase,git,github,postman)](https://skillicons.dev)
 
-## 🗣️ Wanna talk?
+## Get in touch 🗣️
 
 [![Mail](https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w46-h46-rw)](mailto:contact@jarg147.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/javier-romero-gil/)
 
-## 📈 My GitHub Stats
+## My GitHub Stats 📈
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jarg-147&theme=material-palenight&border_radius=8&mode=weekly)](https://git.io/streak-stats)
