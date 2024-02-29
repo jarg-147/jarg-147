@@ -68,11 +68,7 @@ Feel free to explore further details about me and my projects on my [website](ht
 
 ## Other projects 👀
 
-[♋️ Horoscopum (Android / Compose)](https://github.com/jarg-147/HoroscopumCompose)
-
-[♑️ Horoscopum (Android / XML)](https://github.com/jarg-147/HoroscopumXML)
-
-You can aslo check my [other repos](https://github.com/jarg-147?tab=repositories) for more projects.
+Coming soon... ⚒️
 
 ## Skills / Stack ⚡️
 
