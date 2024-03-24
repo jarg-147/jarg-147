@@ -15,7 +15,7 @@ I usually dedicate my free time to improve my knowledge of Kotlin and Swift.
 Mainly to create, improve and maintain my own applications, which are 100% native and made in Compose and SwiftUI
 respectively.
 
-Feel free to explore further details about me and my projects on my [website](https://jarg-147.github.io/).
+Feel free to explore further details about me and my projects on my [website](https://jargcode.com).
 
 ## Published Apps 🔥
 
