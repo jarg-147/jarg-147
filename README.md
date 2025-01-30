@@ -20,7 +20,3 @@ Feel free to explore further details about me and my projects on my [website](ht
 ## Skills / Stack ⚡️
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,idea,ktor,gradle,firebase,git,github,postman)](https://skillicons.dev)
-
-## My GitHub Stats 📈
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jarg-147&theme=material-palenight&border_radius=8&mode=weekly)](https://git.io/streak-stats)
