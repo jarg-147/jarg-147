@@ -8,7 +8,7 @@
 
 ## About me 🙂
 
-I am a self-taught Mobile Developer from 🇪🇸, currently working as an Android Developer at [@Cabify](https://cabify.com/es).
+I am a self-taught Mobile Developer from 🇪🇸, currently working as an Android Engineer at [@Cabify](https://cabify.com/es).
 
 I usually dedicate my free time to improve my knowledge of Kotlin and Swift.
 
